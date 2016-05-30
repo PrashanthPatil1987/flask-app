@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/sh +x
 
 # Author : Zara Ali
 # Copyright (c) Tutorialspoint.com
